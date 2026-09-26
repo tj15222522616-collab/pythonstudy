@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+1
+2
+3
+>>>>>>> b504b63 (Revert "Update test.txt")
